@@ -6,7 +6,7 @@
 
 1. **获取代码**：首先从 GitHub 下载或克隆本 Skill 的代码到本地。
 2. **移动目录**：使用你常用的 IDE（如 VSCode）、OpenClaw 等工具，或直接在系统自带的终端/访达中操作。
-3. **安装 Skill**：将整个 `prd-to-manual` 文件夹移动或拷贝到你的 skills 目录中（路径：`/Users/你的用户名/.gemini/antigravity/skills/`）；或者你也可以直接向 AI 助手发送此 prompt 指令完成自动安装：`请帮我从 GitHub 仓库 https://github.com/zuo1999/prd-to-manual 下载 doc-manual 这个 skill，并将代码克隆到我的目标目录：~/.gemini/antigravity/skills/prd-to-manual/`。
+3. **安装 Skill**：将整个 `prd-to-manual` 文件夹移动或拷贝到你的 skills 目录中；或者你也可以直接向 AI 助手发送此 prompt 指令完成自动安装：`请帮我从 GitHub 仓库 https://github.com/zuo1999/prd-to-manual 下载这个 skill，并将代码克隆到我的skills目录
 4. **生效**：重新启动或刷新你的 AI 助手，系统会自动识别并加载名为 `doc-manual` 的 skill。
 
 ## 二、如何导入 PRD
